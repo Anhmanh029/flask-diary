@@ -1,0 +1,6 @@
+body {
+    background-image: url('bkr.jpg'); /* Đường dẫn ảnh */
+    background-size: cover; /* Căn chỉnh kích thước ảnh */
+    background-position: center; /* Căn giữa ảnh */
+    font-family: Arial, sans-serif; /* Đổi font chữ */
+}
